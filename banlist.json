@@ -1,0 +1,267 @@
+[
+    {
+        "banid": 1,
+        "reason": "Cheating ( Nickname: Ikeh )",
+        "banner": "Anticheat",
+        "identifiers": [
+            "steam:1100001431fc7b2",
+            "license:b5d417d59d069efa543b636ca8f2de3c2b250e0e",
+            "xbl:2535447169491306",
+            "live:985158108351340",
+            "discord:385715700351762443",
+            "ip:103.115.185.194"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 2,
+        "reason": "Cheating ( Nickname: anjaymabar )",
+        "banner": "Anticheat",
+        "identifiers": [
+            "steam:1100001430363af",
+            "license:4b6e0750252414aa27a797ffed2ebf04324aa6af",
+            "live:1055518822597826",
+            "discord:745979780838588456",
+            "ip:139.194.208.145"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 3,
+        "reason": "Cheating ( Nickname: IyainAjaKasian )",
+        "banner": "Anticheat",
+        "identifiers": [
+            "steam:11000013faa291c",
+            "license:d18250709d3b52b092a774866ebb392c2ac8152c",
+            "discord:717778117581602896",
+            "ip:36.69.1.203"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 4,
+        "reason": "Cheating ( Nickname: Dato'Fey431 )",
+        "banner": "Anticheat",
+        "identifiers": [
+            "steam:1100001421032ec",
+            "license:290d0850f26d1c9cf9e32b66b10c4360f6f3c76c",
+            "discord:684804451411951636",
+            "ip:115.164.63.180"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 5,
+        "reason": " CHEATER ( Nickname: tokyo ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:11000014390a914",
+            "license:2ef7873ee63dfaed8a88da78289cb669d1aa5287",
+            "ip:123.253.233.86"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 6,
+        "reason": " CHEATER ( Nickname: J u k u E j a ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:11000013f01ae57",
+            "license:4cf5e975b1e3e9292df475b7e6a1f673ad314061",
+            "live:1055518959100472",
+            "discord:590978011705245707",
+            "ip:180.254.184.13"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 7,
+        "reason": " BUG ( Nickname: You're NveR Walk ALone ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:110000111f32b8f",
+            "license:7e4ccd5853dc1a83883e5b891ff3d1fa60a289c8",
+            "discord:759539830270197800",
+            "ip:180.241.132.13"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 8,
+        "reason": " BUG ( Nickname: ENDO ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:11000011b1c82a3",
+            "license:acce880bde276ed4fa99bf0a04923b35219e78eb",
+            "discord:693151102207656028",
+            "ip:180.241.132.13"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 9,
+        "reason": " CHEATER ( Nickname: wkwkkw112 ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:110000143db292e",
+            "license:af741ab0351b7ca33fdaa1b34446b6740106bf5a",
+            "discord:714756481832058891",
+            "ip:36.90.69.129"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 10,
+        "reason": " CHEATER ( Nickname: dwiparipurna1 ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:110000143d6211b",
+            "license:ea9fd0edf8c156b47e03cc1be26cc6c585949b1e",
+            "discord:731502249284730891",
+            "ip:112.215.244.82"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 11,
+        "reason": " CHEATER ( Nickname: mpsshaah ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:110000111360532",
+            "license:c29244b5c8a029fd38b3efd1bad07fa9684dac6f",
+            "discord:714756481832058891",
+            "ip:36.90.35.94"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 12,
+        "reason": " CHEATER ( Nickname: mtrxx566 ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:1100001435c2df8",
+            "license:d136dd55bbc4aecd23e38861273c43077572a892",
+            "live:914798689653247",
+            "discord:758483645383835688",
+            "ip:36.75.64.253"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 13,
+        "reason": " CHEATER ( Nickname: BabangGomel ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:110000143d0a8e0",
+            "license:c26165aa8affb1f018e33e783f1b579d0e7bc961",
+            "xbl:2535414007174328",
+            "live:1055518302472441",
+            "discord:758969667493560325",
+            "ip:180.252.206.13"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 14,
+        "reason": " cheater ( Nickname: _ ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:110000143e526e1",
+            "license:4c80c445b4b2809669971b8ca46a620b78ac1084",
+            "discord:764492490303733790",
+            "ip:180.246.227.188"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 15,
+        "reason": " cheater ( Nickname: _ ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:110000143fb7824",
+            "license:f343d42260770de522a42966e56378f0ba6586d8",
+            "discord:769103337538453525",
+            "ip:180.246.227.188"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 16,
+        "reason": " cheater ( Nickname: ??? ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:11000014388118f",
+            "license:fd6e73ed84cc68a265af247ef07dc0e0d3542800",
+            "xbl:2535420572831364",
+            "live:985154373544486",
+            "ip:114.79.0.81"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 17,
+        "reason": " bisu ( Nickname: ANAK STM }{ ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:11000014337e894",
+            "license:a57135eaf6e1b2dcc490b02862d21459f61c5087",
+            "ip:36.68.34.56"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 18,
+        "reason": " cheater ( Nickname: Joker ), Banned by: ---",
+        "banner": "---",
+        "identifiers": [
+            "steam:110000141fcf796",
+            "license:c2372ddc087352bb0c8f4c99b7bf11c618d45bc9",
+            "xbl:2535416812436518",
+            "live:1055518923767800",
+            "discord:649850544244129804",
+            "fivem:1103768",
+            "ip:103.247.196.69"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 19,
+        "reason": " BELAJAR RP DULU DEK ( Nickname: OAWKSIWAHJDUAEDHAIOJFDEA ), Banned by: Mine",
+        "banner": "Mine",
+        "identifiers": [
+            "steam:1100001426e2490",
+            "license:dd217631ca09c8178c2e6901a20620fd6033e7ba",
+            "discord:738011432855273560",
+            "ip:114.122.207.18"
+        ],
+        "expire": 10444633200
+    },
+    {
+        "banid": 20,
+        "reason": " BELAJAR RP DULU DEK ( Nickname: yain ), Banned by: Mine",
+        "banner": "Mine",
+        "expire": 10444633200,
+        "identifiers": [
+            "steam:110000140ca23d0",
+            "license:cd05bf60038dd1ec0b3ffa197dcc316de7bb6451",
+            "xbl:2535451667909814",
+            "live:914798587623013",
+            "discord:710824016708894750",
+            "ip:180.246.151.132"
+        ]
+    },
+    {
+        "banid": 21,
+        "reason": "Cheating ( Nickname: ElPablo )",
+        "banner": "Anticheat",
+        "identifiers": [
+            "steam:11000013c7a69b0",
+            "license:8af040c0d1acc9a4c8b73451cdcc3743933659bf",
+            "xbl:2535450743677141",
+            "live:914802162395761",
+            "discord:745282092295782472",
+            "ip:180.244.10.106"
+        ],
+        "expire": 10444633200
+    }
+]
